@@ -227,7 +227,7 @@ header .intro-text {
 }
 /* Portfolio Section */
 #portfolio {
-	padding: 90px 0;
+	padding: 120px 0;
 	background: #f6f6f6;
 }
 .categories {
@@ -353,67 +353,6 @@ ol.type li a:hover {
 	padding: 5px;
 	color: #E87E04;
 }
-/** Our  Glasses section **/
-
-.glasses {
-	background: #fff;
-	margin-top: 90px;
-}
-
-.glasses .titlepage {
-	text-align: center;
-	padding-bottom: 60px;
-}
-
-.glasses .titlepage p {
-	font-size: 17px;
-	line-height: 30px;
-	font-weight: 400;
-	padding-top: 10px;
-}
-
-.blu {
-	color: #03cafc;
-	text-transform: initial;
-}
-
-.glasses .glasses_box 
-{
-	text-align: center;
-	border:solid 1px;
-	border-radius: 2px;
-	padding: 120px 0px 50px 0px;
-	margin-bottom: 30px;
-}
-
-.glasses .glasses_box figure {
-	margin: 0;
-}
-
-.glasses .glasses_box h3 {
-	color: #100d0d;
-	font-size: 22px;
-	line-height: 20px;
-	padding: 70px 0px 9px 0px;
-}
-
-.glasses .glasses_box p {
-	color: #2a2a2c;
-	font-size: 18px;
-	line-height: 28px;
-	font-weight: 400;
-}
-
-.glasses .read_more {
-	border: #1a1a1a solid 2px;
-	font-weight: 500;
-	display: block;
-	margin: 0 auto;
-	margin-top: 44px;
-}
-
-
-/** end Our  Glasses section **/
 /* Achivements Section */
 #achievements {
 	background: url(../img/achievements-bg.jpg) no-repeat center bottom fixed;
